@@ -1,0 +1,19 @@
+name: amazon_location_flutter
+description: Dart/Flutter client for Amazon Location Service GeoPlaces API (autocomplete + geocode).
+version: 0.1.0
+homepage: https://github.com/bandmate/amazon_location_flutter
+
+environment:
+  sdk: ^3.11.4
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  mocktail: ^1.0.4
